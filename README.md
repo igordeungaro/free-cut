@@ -76,3 +76,12 @@ Want your logo here? Reach out at [sponsor@opencut.app](mailto:sponsor@opencut.a
 ## License
 
 [MIT](LICENSE)
+
+---
+
+### Créditos e fonte original
+
+Este repositório é um fork de [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut), criado e mantido pelos autores originais. Todo o crédito é deles.  
+Licença: MIT License (mantida sem alterações).
+
+**Fonte original:** https://github.com/OpenCut-app/OpenCut
